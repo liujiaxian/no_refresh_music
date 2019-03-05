@@ -1,0 +1,433 @@
+﻿ {
+            "songData": [ 
+                { 
+                    "albumName": "推荐歌曲", 
+                    "albumCoverMax": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/max/tj.jpg", 
+                    "albumSong": [ 
+                { 
+                    "musicName": "安娜", 
+                    "musicSinger": "冷漠", 
+                    "musicLink": "http://cctv3.qiniudn.com/anna.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/anna.lrc", 
+                    "musicTime": "04:49", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/anna.jpg" 
+                }, 
+                { 
+                    "musicName": "继续孤独", 
+                    "musicSinger": "张津涤", 
+                    "musicLink": "http://cctv3.qiniudn.com/jixugd.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/jixugd.lrc", 
+                    "musicTime": "04:37", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/jixugd.jpg" 
+                }, 
+                { 
+                    "musicName": "黄昏", 
+                    "musicSinger": "网络女声", 
+                    "musicLink": "http://cctv3.qiniudn.com/huanghun.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/huanghun.lrc", 
+                    "musicTime": "04:52", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/huanghun.png" 
+                }, 
+                { 
+                    "musicName": "爱有三分毒", 
+                    "musicSinger": "尚裘峰", 
+                    "musicLink": "http://cctv3.qiniudn.com/aysfd.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/aysfd.lrc", 
+                    "musicTime": "03:39", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/aysfd.png" 
+                }, 
+                { 
+                    "musicName": "做你的雪莲", 
+                    "musicSinger": "艾歌", 
+                    "musicLink": "http://cctv3.qiniudn.com/zndxl.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/zndxl.lrc", 
+                    "musicTime": "04:19", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/zndxl.jpg" 
+                }, 
+                { 
+                    "musicName": "爱你么么哒", 
+                    "musicSinger": "网络歌手", 
+                    "musicLink": "http://cctv3.qiniudn.com/anmmd.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/anmmd.lrc", 
+                    "musicTime": "03:55", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/anmmd.jpg" 
+                }, 
+                { 
+                    "musicName": "越长大越孤单", 
+                    "musicSinger": "牛奶咖啡", 
+                    "musicLink": "http://cctv3.qiniudn.com/yuezhangdayuegudan.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/yuezhangdayuegudan.lrc", 
+                    "musicTime": "04:28", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                 { 
+                     "musicName": "很难", 
+                     "musicSinger": "张震岳", 
+                     "musicLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/music/hn.ogg", 
+                     "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/hn.lrc", 
+                     "musicTime": "04:18", 
+                     "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/tj.jpg" 
+                 }, 
+                { 
+                    "musicName": "爱不会停", 
+                    "musicSinger": "易欣", 
+                    "musicLink": "http://cctv3.qiniudn.com/aibuhuiting.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/aibuhuiting.lrc", 
+                    "musicTime": "04:06", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "躲避的爱", 
+                    "musicSinger": "叶麟", 
+                    "musicLink": "http://cctv3.qiniudn.com/duobideai.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/duobideai.lrc", 
+                    "musicTime": "04:22", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                        { 
+                            "musicName": "爱的漩涡dj版", 
+                            "musicSinger": "丁酉酉", 
+                            "musicLink": "http://cctv3.qiniudn.com/aidexuanwo.mp3", 
+                            "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/aidexuanwo.lrc", 
+                            "musicTime": "04:33", 
+                            "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                        }, 
+                { 
+                    "musicName": "越单纯越幸福", 
+                    "musicSinger": "王筝", 
+                    "musicLink": "http://cctv3.qiniudn.com/yuedanchunyuexingfu.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/yuedanchunyuexingfu.lrc", 
+                    "musicTime": "04:40", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "MY ALL", 
+                    "musicSinger": "滨崎步", 
+                    "musicLink": "http://cctv3.qiniudn.com/myall.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/myall.lrc", 
+                    "musicTime": "05:25", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "听雨", 
+                    "musicSinger": "张雷", 
+                    "musicLink": "http://cctv3.qiniudn.com/tingyu.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/tingyu.lrc", 
+                    "musicTime": "04:13", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "勇敢勇敢", 
+                    "musicSinger": "黄勇", 
+                    "musicLink": "http://cctv3.qiniudn.com/yonggan.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/yonggan.lrc", 
+                    "musicTime": "04:27", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "花心的男人", 
+                    "musicSinger": "苏小花", 
+                    "musicLink": "http://cctv3.qiniudn.com/huaxindenanren.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/huaxindenanren.lrc", 
+                    "musicTime": "03:57", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "兄弟难当", 
+                    "musicSinger": "杜歌", 
+                    "musicLink": "http://cctv3.qiniudn.com/xiongdinandang.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/xiongdinandang.lrc", 
+                    "musicTime": "04:12", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                    ] 
+                }, 
+                { 
+                    "albumName": "DJ舞曲", 
+                    "albumCoverMax": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/max/dj.jpg", 
+                    "albumSong": [ 
+                { 
+                    "musicName": "唐伯虎点秋香", 
+                    "musicSinger": "过江龙", 
+                    "musicLink": "http://cctv3.qiniudn.com/tbhdqx.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/tbhdqx.lrc", 
+                    "musicTime": "04:41", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "宁德皇庭俱乐部串烧", 
+                    "musicSinger": "宁德皇庭", 
+                    "musicLink": "http://cctv3.qiniudn.com/ndht.mp3", 
+                    "lyricsLink": "", 
+                    "musicTime": "60:06", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "爱中过枪dj", 
+                    "musicSinger": "门丽", 
+                    "musicLink": "http://cctv3.qiniudn.com/azgq.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/azgq.lrc", 
+                    "musicTime": "04:57", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "继续孤独DJ", 
+                    "musicSinger": "张祥洪", 
+                    "musicLink": "http://cctv3.qiniudn.com/jxgd.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/jxgd.lrc", 
+                    "musicTime": "06:04", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/jxgd.jpg" 
+                }, 
+                { 
+                    "musicName": "真心至上dj", 
+                    "musicSinger": "DJ", 
+                    "musicLink": "http://cctv3.qiniudn.com/zxzs.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/zxzs.lrc", 
+                    "musicTime": "06:59", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                        { 
+                            "musicName": "彻彻底底忘记你是谁dj", 
+                            "musicSinger": "陈咏", 
+                            "musicLink": "http://cctv3.qiniudn.com/ccddwjnss.mp3", 
+                            "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/ccddwjnss.lrc", 
+                            "musicTime": "06:59", 
+                            "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                        }, 
+                { 
+                    "musicName": "痛心疾首dj", 
+                    "musicSinger": "浩轩", 
+                    "musicLink": "http://cctv3.qiniudn.com/tongxinjishou.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/tongxinjishou.lrc", 
+                    "musicTime": "05:01", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "不爱我就不要给我机会dj", 
+                    "musicSinger": "乐桐", 
+                    "musicLink": "http://cctv3.qiniudn.com/bawjbygwjh.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/bawjbygwjh.lrc", 
+                    "musicTime": "05:45", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                    ] 
+                }, 
+                { 
+                    "albumName": "流行红歌", 
+                    "albumCoverMax": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/max/lx.jpg", 
+                    "albumSong": [ 
+                { 
+                    "musicName": "新娘不是我", 
+                    "musicSinger": "程响", 
+                    "musicLink": "http://cctv3.qiniudn.com/xnbsw.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/xnbsw.lrc", 
+                    "musicTime": "04:42", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "小苹果", 
+                    "musicSinger": "筷子兄弟 ", 
+                    "musicLink": "http://cctv3.qiniudn.com/xiaopingguo.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/xiaopingguo.lrc", 
+                    "musicTime": "03:31", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "你并不在意我爱你", 
+                    "musicSinger": "邱宏", 
+                    "musicLink": "http://cctv3.qiniudn.com/nbbzywan.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/nbbzywan.lrc", 
+                    "musicTime": "03:57", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                    ] 
+                }, 
+                { 
+                    "albumName": "伤感情歌", 
+                    "albumCoverMax": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/max/qg.jpg", 
+                    "albumSong": [ 
+                { 
+                    "musicName": "丢了爱情丢了你", 
+                    "musicSinger": "高信", 
+                    "musicLink": "http://cctv3.qiniudn.com/dlaqdln.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/dlaqdln.lrc", 
+                    "musicTime": "03:47", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "苦果", 
+                    "musicSinger": "程响", 
+                    "musicLink": "http://cctv3.qiniudn.com/kuguo.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/kuguo.lrc", 
+                    "musicTime": "03:53", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                        { 
+                            "musicName": "留不住你的温柔", 
+                            "musicSinger": "李泽坚&司徒兰芳", 
+                            "musicLink": "http://cctv3.qiniudn.com/liubuzhunidewenrou.mp3", 
+                            "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/liubuzhunidewenrou.lrc", 
+                            "musicTime": "03:55", 
+                            "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                        }, 
+                { 
+                    "musicName": "最幸福的人", 
+                    "musicSinger": "曾春年", 
+                    "musicLink": "http://cctv3.qiniudn.com/zuixingfuderen.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/zuixingfuderen.lrc", 
+                    "musicTime": "04:36", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "辜负", 
+                    "musicSinger": "楼宏章", 
+                    "musicLink": "http://cctv3.qiniudn.com/gufu.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/gufu.lrc", 
+                    "musicTime": "04:09", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                } 
+                    ] 
+                }, 
+                { 
+                    "albumName": "怀旧歌曲", 
+                    "albumCoverMax": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/max/zzg.jpg", 
+                    "albumSong": [ 
+                { 
+                    "musicName": "捉泥鳅", 
+                    "musicSinger": "卓依婷", 
+                    "musicLink": "http://cctv3.qiniudn.com/zhuoniqiu.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/zhuoniqiu.lrc", 
+                    "musicTime": "02:38", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "记事本", 
+                    "musicSinger": "陈慧琳", 
+                    "musicLink": "http://cctv3.qiniudn.com/jishiben.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/jishiben.lrc", 
+                    "musicTime": "04:13", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "孤独的人并不寂寞", 
+                    "musicSinger": "雷婷", 
+                    "musicLink": "http://cctv3.qiniudn.com/gddrbbjm.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/gddrbbjm.lrc", 
+                    "musicTime": "04:32", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                { 
+                    "musicName": "偏偏喜欢你-古筝音乐", 
+                    "musicSinger": "段银莹", 
+                    "musicLink": "http://cctv3.qiniudn.com/ppxhn.mp3", 
+                    "lyricsLink": "", 
+                    "musicTime": "04:21", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/min/hcsmlive.png" 
+                }, 
+                    ] 
+                }, 
+                { 
+                    "albumName": "我的翻唱", 
+                    "albumCoverMax": "http://www.wuover.com/wp-content/themes/QIUYE/music/albumCover/max/qiuye.jpg",
+                    "albumSong": [ 
+                       { 
+                           "musicName": "只想一生跟你走", 
+                           "musicSinger": "秋叶", 
+                           "musicLink": "http://cctv3.qiniudn.com/qiuye-zxysgnz.mp3", 
+                           "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-zxysgnz.lrc", 
+                           "musicTime": "04:52", 
+                           "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                       }, 
+                { 
+                    "musicName": "为爱停留", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-weiaitingliu.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-weiaitingliu.lrc",
+                    "musicTime": "05:38", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "为什么相爱的人不能在一起", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-wsmxadrbnzyq.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-wsmxadrbnzyq.lrc", 
+                    "musicTime": "04:28", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "戒掉爱情戒掉你", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-jdaqjdn.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-jdaqjdn.lrc", 
+                    "musicTime": "03:58", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "你到底有没有爱过我", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-nddymyagw.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-nddymyagw.lrc",
+                    "musicTime": "04:03", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "在心里从此永远有个你", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-zxlccyyygn.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-zxlccyyygn.lrc", 
+                    "musicTime": "04:25", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "我不后悔", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-wbhh.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-wbhh.lrc", 
+                    "musicTime": "04:04", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "偷偷联系", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-toutoulianxi.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-toutoulianxi.lrc",
+                    "musicTime": "04:16", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "红尘情歌", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-hcqg.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-hcqg.lrc", 
+                    "musicTime": "03:29", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "思思念念全是你", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-ssnnqsn.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-ssnnqsn.lrc", 
+                    "musicTime": "04:07", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "爱上别人的人", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-asbrdr.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-asbrdr.lrc", 
+                    "musicTime": "03:47", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                { 
+                    "musicName": "爱情码头", 
+                    "musicSinger": "秋叶", 
+                    "musicLink": "http://cctv3.qiniudn.com/qiuye-aqmt.mp3", 
+                    "lyricsLink": "http://www.wuover.com/wp-content/themes/QIUYE/music/lyrics/qiuye-aqmt.lrc", 
+                    "musicTime": "04:57", 
+                    "albumCoverMin": "http://www.wuover.com/wp-content/themes/QIUYE/images/touxiang.gif" 
+                }, 
+                    ] 
+                } 
+            ], 
+            "songNum": 13 
+        } 
